@@ -1,0 +1,43 @@
+#######################################
+# Syntax Coloring Map For DIO2
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+digitalRead2	KEYWORD2
+digitalRead2f	KEYWORD2
+digitalWrite2	KEYWORD2
+digitalWrite2f	KEYWORD2
+pinMode2	KEYWORD2
+pinMode2f	KEYWORD2
+GPIO_pin_t	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DP0	LITERAL1
+DP1	LITERAL1
+DP2	LITERAL1
+DP3	LITERAL1
+DP4	LITERAL1
+DP5	LITERAL1
+DP6	LITERAL1
+DP7	LITERAL1
+DP8	LITERAL1
+DP9	LITERAL1
+DP10	LITERAL1
+DP11	LITERAL1
+DP12	LITERAL1
+DP13	LITERAL1
+DP14	LITERAL1
+DP15	LITERAL1
+DP16	LITERAL1
+DP17	LITERAL1
+DP18	LITERAL1
+DP19	LITERAL1
+
+
